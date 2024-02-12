@@ -75,7 +75,8 @@ namespace Equitel.Services.Implementacion
             }
         }
 
-        public async Task<bool> UpdateProductoo(Producto modelo)
+
+        public async Task<bool> UpdateProducto(Producto modelo)
         {
             try
             {
