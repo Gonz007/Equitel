@@ -10,6 +10,8 @@ Se ha creado una base de datos que incluye tablas para productos, usuarios, vent
 Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador, vendedor y supervisor.
 Se han establecido permisos específicos para cada rol de usuario.
 
+![Equitel](https://github.com/Gonz007/Assets/blob/main/LoginEquitel.png)
+
 ## Se ha implementado una interfaz gráfica para la gestión de usuarios y roles.
 Se han desarrollado páginas y formularios para la gestión de productos, así como para el registro de entradas y salidas de inventario.
 Se ha creado una pantalla para realizar ventas individuales desde un perfil de usuario vendedor o administrador.
