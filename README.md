@@ -3,6 +3,7 @@ Este repositorio contiene el código fuente desarrollado para la implementación
 ##
 ## Diseño de la Base de Datos:
 Se ha creado una base de datos que incluye tablas para productos, usuarios, ventas, proveedores y registro de auditoría.
+![Equitel](https://github.com/Gonz007/Assets/blob/9ea39c6b03e13296ca25f837e2e618ed1171e0e5/BdEquitel.png)
 ##
 ## Implementación del Sistema de Autenticación y Autorización:
 Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador, vendedor y supervisor.
