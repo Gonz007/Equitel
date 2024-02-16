@@ -16,6 +16,8 @@ Se han establecido permisos específicos para cada rol de usuario.
 Se han desarrollado páginas y formularios para la gestión de productos, así como para el registro de entradas y salidas de inventario.
 Se ha creado una pantalla para realizar ventas individuales desde un perfil de usuario vendedor o administrador.
 
+![Equitel](https://github.com/Gonz007/Assets/blob/main/EquitelUsuarios.png)
+
 ## Implementación de Registro de Auditoría:
 Se registran todas las acciones relevantes en el sistema, como la creación o modificación de productos, ventas y cambios en roles de usuario.
 
