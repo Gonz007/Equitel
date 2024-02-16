@@ -5,12 +5,12 @@ Este repositorio contiene el código fuente desarrollado para la implementación
 Se ha creado una base de datos que incluye tablas para productos, usuarios, ventas, proveedores y registro de auditoría.
 ##
 ## Implementación del Sistema de Autenticación y Autorización:
-Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador o vendedor.
+Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador, vendedor y supervisor.
 Se han establecido permisos específicos para cada rol de usuario.
 ##
 ## Se ha implementado una interfaz gráfica para la gestión de usuarios y roles.
 Se han desarrollado páginas y formularios para la gestión de productos, así como para el registro de entradas y salidas de inventario.
-Se ha creado una pantalla para realizar ventas individuales.
+Se ha creado una pantalla para realizar ventas individuales desde un perfil de usuario vendedor o administrador.
 ##
 ## Implementación de Registro de Auditoría:
 Se registran todas las acciones relevantes en el sistema, como la creación o modificación de productos, ventas y cambios en roles de usuario.
