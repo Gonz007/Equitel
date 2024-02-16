@@ -15,8 +15,8 @@ Se ha creado una pantalla para realizar ventas individuales.
 Implementación de Registro de Auditoría:
 Se registran todas las acciones relevantes en el sistema, como la creación o modificación de productos, ventas y cambios en roles de usuario.
 ##
-Generación de Informes:
-Se ha implementado una funcionalidad para generar informes diarios de ventas con el monto total y los repuestos vendidos junto con sus cantidades.
+Generación de Informes y facturas:
+Se ha implementado una funcionalidad para generar informes diarios de ventas con el monto total y los repuestos vendidos junto con sus cantidades ademas de la posibilidad de generar facturas port una o varias compras.
 ##
 Las tecnologias usadas en el proyecto son 
 ```
