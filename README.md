@@ -4,7 +4,7 @@ Este repositorio contiene el código fuente desarrollado para la implementación
 Diseño de la Base de Datos:
 Se ha creado una base de datos que incluye tablas para productos, usuarios, ventas, proveedores y registro de auditoría.
 ##
-Implementación del Sistema de Autenticación y Autorización:
+#Implementación del Sistema de Autenticación y Autorización:
 Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador o vendedor.
 Se han establecido permisos específicos para cada rol de usuario.
 ##
