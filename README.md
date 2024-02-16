@@ -7,7 +7,7 @@ Se ha creado una base de datos que incluye tablas para productos, usuarios, vent
 ![Equitel](https://github.com/Gonz007/Assets/blob/main/BdEquitel.png)
 
 ## Implementación del Sistema de Autenticación y Autorización:
-Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador, vendedor y supervisor.
+Se ha desarrollado un sistema de autenticación que permite a los usuarios iniciar sesión como administrador y empleado.
 Se han establecido permisos específicos para cada rol de usuario.
 
 ![Equitel](https://github.com/Gonz007/Assets/blob/main/LoginEquitel.png)
