@@ -2,7 +2,7 @@ Este repositorio contiene el código fuente desarrollado para la implementación
 
 
 ## Diseño de la Base de Datos:
-Se ha creado una base de datos que incluye tablas para productos, usuarios, ventas, proveedores y registro de auditoría.
+Se ha creado una base de datos que incluye tablas para productos, usuarios, ventas, proveedores y registro de auditoría, para el registro de todas las acciones del sistema asi como la facturacion de 24 se crearon procedimientos almacenados.
 
 
 ## Implementación del Sistema de Autenticación y Autorización:
